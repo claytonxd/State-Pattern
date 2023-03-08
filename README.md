@@ -134,19 +134,19 @@ Das Problem: Es soll durch das State-Pattern ermittelt werden ob ein Tier hungri
 Der Code ist hier zu finden: https://github.com/claytonxd/State-Pattern
 
 
-ITierState.java:
+ITierState.java:<br>
 ![ITierState.java](https://i.ibb.co/SxHWLHH/ITier-State.png)
 
-HungrigTierState.java:
+HungrigTierState.java:<br>
 ![HungrigTierState.java](https://i.ibb.co/8BkcGd3/Hungrig-Tier-State.png)
 
-NichtHungrigTierState.java:
+NichtHungrigTierState.java:<br>
 ![NichtHungrigTierState.java](https://i.ibb.co/YkMXVdd/Nicht-Hungrig-Tier-State.png)
 
-Tier.java:
+Tier.java:<br>
 ![Tier.java](https://i.ibb.co/6Dq1kYB/Tier.png)
 
-TierMain.java:
+TierMain.java:<br>
 ![TierMain.java](https://i.ibb.co/f4jGzt1/TierMain.png)
 
 ## Praxis: Klassendiagram
@@ -154,6 +154,6 @@ TierMain.java:
 ![Klassendiagramm](https://i.ibb.co/rwZp8KR/Klassendiagramm-Tier.png)
 
 ## Quellen
-https://www.philipphauer.de/study/se/design-pattern/state.php
-https://sourcemaking.com/design_patterns/state
+https://www.philipphauer.de/study/se/design-pattern/state.php<br>
+https://sourcemaking.com/design_patterns/state<br>
 https://de.wikipedia.org/wiki/Zustand_(Entwurfsmuster)
