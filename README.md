@@ -131,7 +131,7 @@ Das Problem: Es soll durch das State-Pattern ermittelt werden ob ein Tier hungri
 
 ## Praxis: Code
 
-Der Code ist hier zu finden: https://github.com/claytonxd/State-Pattern
+Der Code ist hier zu finden: https://github.com/claytonxd/State-Pattern/tree/master/Anwendungsfall-NOMAVEN/src/statepattern
 
 
 ITierState.java:<br>
