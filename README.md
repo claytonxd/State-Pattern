@@ -5,7 +5,7 @@ Handout zum Referat "State Pattern" von Kevin Clayton, Nico Hilgart und Alexande
 - Wie funktioniert das State Pattern
 - Einsatzbereiche des Patterns
 - Klassendiagramm für das Beispiel
-- Praxis: Anwendungsfall "Cringe"
+- Praxis: Anwendungsfall "Tier"
 - Praxis: Code
 - Praxis: Klassendiagramm
 
