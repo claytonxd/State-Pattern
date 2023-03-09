@@ -1,7 +1,7 @@
 # State Pattern
 Handout zum Referat "State Pattern" von Kevin Clayton, Nico Hilgart und Alexander Domanja
 <br>
-## Gliderung
+## Gliederung
 - Wie funktioniert das State Pattern
 - Einsatzbereiche des Patterns
 - Klassendiagramm für das Beispiel
